@@ -73,7 +73,7 @@ VITE_OMDB_API_KEY=your_api_key_here
 ## 📱 Responsive Design
 
 CineScore is fully responsive and works smoothly on:
-- 💻 Desktop  
-- 📱 Mobile  
-- 📟 Tablets
+-  Desktop  
+- Mobile  
+- Tablets
 
